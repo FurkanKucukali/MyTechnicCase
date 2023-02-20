@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\bin\Debug\net6.0\MyTechnic_Case.Business.deps.json
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\bin\Debug\net6.0\MyTechnic_Case.Business.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\bin\Debug\net6.0\MyTechnic_Case.Business.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\bin\Debug\net6.0\MyTechnic_Case.Core.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\bin\Debug\net6.0\MyTechnic_Case.Core.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.csproj.CopyComplete
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\refint\MyTechnic_Case.Business.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\MyTechnic_Case.Business.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Business\obj\Debug\net6.0\ref\MyTechnic_Case.Business.dll

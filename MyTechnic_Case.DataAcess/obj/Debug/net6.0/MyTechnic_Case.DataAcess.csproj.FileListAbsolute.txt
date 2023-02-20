@@ -1,0 +1,17 @@
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.DataAcess.deps.json
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.DataAcess.runtimeconfig.json
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.DataAcess.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.DataAcess.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.Core.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\bin\Debug\net6.0\MyTechnic_Case.Core.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.csproj.CopyComplete
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\refint\MyTechnic_Case.DataAcess.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\MyTechnic_Case.DataAcess.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.DataAcess\obj\Debug\net6.0\ref\MyTechnic_Case.DataAcess.dll

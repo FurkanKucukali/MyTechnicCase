@@ -1,0 +1,12 @@
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\bin\Debug\net6.0\MyTechnic_Case.Core.deps.json
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\bin\Debug\net6.0\MyTechnic_Case.Core.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\bin\Debug\net6.0\MyTechnic_Case.Core.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\refint\MyTechnic_Case.Core.dll
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\MyTechnic_Case.Core.pdb
+C:\Users\Furkan\source\repos\MyTechnic_Case.Web\MyTechnic_Case.Core\obj\Debug\net6.0\ref\MyTechnic_Case.Core.dll
